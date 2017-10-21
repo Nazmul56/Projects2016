@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/dhaka"
+            android:icon="@drawable/ic_action_map"
+            android:title="Dhaka" />
+        <item
+            android:id="@+id/chittagong"
+            android:icon="@drawable/ic_action_map"
+            android:title="Chittagong" />
+        <item
+            android:id="@+id/shylet"
+            android:icon="@drawable/ic_action_map"
+            android:title="Shylet" />
+        <item
+            android:id="@+id/rajshahi"
+            android:icon="@drawable/ic_action_map"
+            android:title="Rajshahi" />
+        <item
+            android:id="@+id/khulna"
+            android:icon="@drawable/ic_action_map"
+            android:title="Khulna" />
+        <item
+            android:id="@+id/barisal"
+            android:icon="@drawable/ic_action_map"
+            android:title="Barisal" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_action_map"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_action_map"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
+<!-- From: file:/home/nazmul/Desktop/UnderDevelopment/Travel%20Bangladesh2/Application/src/main/res/menu/activity_main_drawer.xml -->

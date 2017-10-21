@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1033773749861",
+    "firebase_url": "https://fir-gcm.firebaseio.com",
+    "project_id": "fir-gcm",
+    "storage_bucket": "fir-gcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033773749861:android:63d9c7e57187364a",
+        "android_client_info": {
+          "package_name": "com.droidking.firebasegcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033773749861-5389vpal51ur17cejk9dm8rm5tkgeddn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWTxj-VbQGp-KXaYGUOHcHDfa2n0ooUek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

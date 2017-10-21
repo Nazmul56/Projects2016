@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/grabber.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/grabber.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/circle.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/circle.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/checks_small_dark.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/checks_small_dark.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/circle_1bpp.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/circle_1bpp.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/fountainpen.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/fountainpen.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/uncledan.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/uncledan.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/airbrush_dark.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/airbrush_dark.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/checks_light.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/checks_light.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/airbrush_light.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/airbrush_light.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/uncledan_save.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-nodpi/uncledan_save.png"
+    }
+]

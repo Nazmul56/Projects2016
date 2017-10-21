@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/catalog"
+            android:icon="@drawable/ic_action_action_description"
+            android:title="Catalog" />
+        <item
+            android:id="@+id/borrow_book"
+            android:icon="@drawable/ic_action_action_shopping_cart"
+            android:title="Borrow" />
+        <item
+            android:id="@+id/return_book"
+            android:icon="@drawable/ic_action_content_reply"
+            android:title="Return" />
+        <item
+            android:id="@+id/all_borrowed"
+            android:icon="@drawable/ic_action_action_assignment"
+            android:title="All Borrowed"/>
+
+        <item
+            android:id="@+id/allmember"
+            android:icon="@drawable/ic_action_action_account_box"
+            android:title="All Members" />
+        <item
+            android:id="@+id/add_newmember"
+            android:icon="@drawable/ic_action_content_create"
+            android:title="Add New Member" />
+
+        <item
+            android:id="@+id/add_new_book"
+            android:icon="@drawable/ic_action_action_description"
+            android:title="Add New Book" />
+
+    </group>
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_action_navigation_cancel"
+                android:title="Logout" />
+            <item
+                android:id="@+id/about_us"
+                android:icon="@drawable/ic_action_communication_message"
+                android:title="About Us" />
+        </menu>
+    </item>
+
+</menu>

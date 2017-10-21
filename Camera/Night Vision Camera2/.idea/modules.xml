@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Night Vision Camera2.iml" filepath="$PROJECT_DIR$/Night Vision Camera2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" filepath="$PROJECT_DIR$/actionbarsherlock/actionbarsherlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nightVisionCamera/nightVisionCamera.iml" filepath="$PROJECT_DIR$/nightVisionCamera/nightVisionCamera.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/MadicalApp/webMobileGroupChat/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/MadicalApp/webMobileGroupChat/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-18.0.0_d28f95ced3d55e0e4593ec2fc13d9a8fff8ca212.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/MadicalApp/webMobileGroupChat/build/intermediates/exploded-aar/MadicalApp/androidwebsocketsmaster/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8971f29cba7f0ea4e046b78f0378570a109a5cb9">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/MadicalApp/webMobileGroupChat/build/intermediates/pre-dexed/debug/MadicalApp-androidwebsocketsmaster-unspecified_1c3cd99395c20ce2cab8e4c743f4df9ab4795053.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/MadicalApp/webMobileGroupChat/build/intermediates/pre-dexed/debug/support-v4-18.0.0_83268d8b076ede9bd64abf3423034ca3e53aa50c.jar" />
+    </item>
+
+</items>

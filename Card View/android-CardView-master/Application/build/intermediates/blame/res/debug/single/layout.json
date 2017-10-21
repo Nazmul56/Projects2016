@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/android-CardView-master/Application/build/intermediates/res/merged/debug/layout/fragment_card_view.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/android-CardView-master/Application/src/main/res/layout/fragment_card_view.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/Card View/android-CardView-master/Application/build/intermediates/res/merged/debug/layout/fragment_card_view.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/Card View/android-CardView-master/Application/src/main/res/layout/fragment_card_view.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/android-CardView-master/Application/build/intermediates/res/merged/debug/layout/activity_card_view.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/android-CardView-master/Application/src/main/res/layout/activity_card_view.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/Card View/android-CardView-master/Application/build/intermediates/res/merged/debug/layout/activity_card_view.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/Card View/android-CardView-master/Application/src/main/res/layout/activity_card_view.xml"
+    }
+]

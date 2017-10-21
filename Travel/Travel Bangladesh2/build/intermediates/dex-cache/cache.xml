@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nazmul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-3676402b776b731d99ec1be508a18d6bdb919dce.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-dc2cced26b9e7565f4fc32798e211cd9a5a3622b.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-dc96eb8da285dab342c34bf8b8b60ea9e8ccc6b0.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6226784544a521018b23203d335f89f268314645">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-244ce1369f66e8e1774fe96f84cf92934a10d345.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-d3431da5281429c7e6eb9c54cace9556389f1122.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-b9feba1326834c6ab2c6ba3d550aecbcb92ce903.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-2f2027465a37e3893d03bab253e1f3498cc74a34.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-ba74fe852a186b473e3d31b5c5b7c8b01d083b62.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/Travel Bangladesh2/Shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ee5901be6ebcb7402e6373e96463263eeb1b3294">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-bc53fd915465027cc82664b7a5f18daf32b24f6d.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-892d1a385a5054bcb5095da3e0c8bb213a843457.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-61f826f57ce3180ad56a6ecdb060c8162c70b61e.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-02c7eb548f8fbeaba46ee7ab0cffa7c367689b89.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-98e5ca3c3cd64df07ded384fdb3da20aee9a491b.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/glide-3.6.1-b48b0a891b99fab01ab67240a29df869ddf6b44c.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-bc0e5aa363234133778bb76054d829035b168a89.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/classes-656074f46d592bf0e212dd5e7b0bf63ca53e02bc.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/Travel Bangladesh2/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-9b15b200859e88ca1e920f1bad585cee9b7b8874.jar" />
+    </item>
+
+</items>

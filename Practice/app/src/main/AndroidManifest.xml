@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="practice.nazmul.practice">
+
+    <uses-permission android:name="android.permission.SET_WALLPAPER"></uses-permission>
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".StartingPoint"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="practice.nazmul.practice.STRTINGPOINT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Splash"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Menu"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="practice.nazmul.practice.MENUE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".TextPlay"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".Camera"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".Data"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".OpenedClass"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".AboutUs"
+            android:label="About"
+            android:theme="@android:style/Theme.Dialog">
+            <intent-filter>
+                <action android:name="practice.nazmul.practice.ABOUT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Prefs"
+            android:label="Prefences">
+            <intent-filter>
+                <action android:name="practice.nazmul.practice.PREFS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".GFX"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".GFXSurface"
+            android:label="@string/app_name"></activity>
+        <activity
+            android:name=".SQLView"
+            android:label="@string/title_activity_sqlview"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".SQLiteExample"
+            android:label="@string/title_activity_sqlview"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+    </application>
+
+</manifest>

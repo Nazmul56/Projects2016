@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <string name="app_name">Night Vision Spy Camera</string>
+    <string name="no">No</string>
+    <string name="not_now">Not now</string>
+    <string name="ok">OK</string>
+    <string name="please_rate">Please rate this app if you like it. It will help us!</string>
+    <string name="rate">Rate</string>
+    <string name="would_you">Would you help us?</string>
+    <string name="yes">Yes</string>
+    <string name="your_phone_">Your phone is not supported</string>
+    <style name="AppBaseTheme" parent="@*android:style/Theme.Light"/>
+    <style name="AppTheme" parent="@style/AppBaseTheme"/>
+</resources>

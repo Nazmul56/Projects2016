@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/build/intermediates/res/merged/debug/layout/hours.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/src/main/res/layout/hours.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/build/intermediates/res/merged/debug/layout/seconds.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/src/main/res/layout/seconds.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/build/intermediates/res/merged/debug/layout/milliseconds.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/src/main/res/layout/milliseconds.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/build/intermediates/res/merged/debug/layout/countdownview_main.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/src/main/res/layout/countdownview_main.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/build/intermediates/res/merged/debug/layout/minutes.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/CountDownView-master1/app/src/main/res/layout/minutes.xml"
+    }
+]

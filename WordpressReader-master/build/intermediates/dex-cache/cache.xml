@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/pre-dexed/debug/classes-0edac38e3df844bc8b692235e76da45013173522.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/pre-dexed/debug/classes-2e10eb64d8cfd5f4dcd339803eb48b3ba5c0a32d.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/libs/volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3a5961175b98494b89b7a24ac128e61e64ef7ef6">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/pre-dexed/debug/volley-37679696d5b20bf5287945a2fbdb88505c5e7c2b.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-fc35c479565aa26e21a5b993fd4d85abfa5c767a.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/pre-dexed/debug/classes-33465a2a5757ecdb4a362a9d493416eeac086eb3.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-11d450a8191546e0bd10bca2139a1184eadd2c29.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/pre-dexed/debug/classes-78144e1009dbbbf459e749a8fe11538b5c3f8df9.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/pre-dexed/debug/glide-3.6.1-b48b0a891b99fab01ab67240a29df869ddf6b44c.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/WordpressReader-master/app/build/intermediates/pre-dexed/debug/classes-c3873d109f9b47e3ecc84132ccd6646c4d6ebb6b.jar" />
+    </item>
+
+</items>

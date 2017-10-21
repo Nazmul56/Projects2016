@@ -1,0 +1,129 @@
+buildscript {
+    repositories {
+        mavenCentral()
+        maven { url 'http://download.crashlytics.com/maven' }
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:1.2.3'
+        classpath 'com.crashlytics.tools.gradle:crashlytics-gradle:1.+'
+        classpath 'com.neenbedankt.gradle.plugins:android-apt:1.4'
+    }
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'crashlytics'
+apply plugin: 'com.neenbedankt.android-apt'
+
+repositories {
+    mavenCentral()
+    maven { url 'http://download.crashlytics.com/maven' }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: '*.jar')
+    // Android support libraries
+    // Note: these libraries require the "Google Repository" and "Android
+    //       Support Repository" to be installed via the SDK manager.
+    compile 'com.android.support:support-v4:21.0.2'
+    compile 'com.android.support:appcompat-v7:20.0.0'
+    compile 'com.android.support:support-annotations:22.2.0'
+
+    // Third party libraries
+    compile 'com.google.guava:guava:18.0'
+
+    // findbugs is required for Proguard to work with Guava.
+    compile 'com.google.code.findbugs:jsr305:2.0.2'
+
+    // EventBus, https://github.com/greenrobot/EventBus.
+    compile project(':libs:eventbus:EventBus')
+
+    // Changelogs, see https://github.com/cketti/ckChangeLog.
+    compile 'de.cketti.library.changelog:ckchangelog:1.2.0'
+
+    // LoganSquare JSON
+    apt 'com.bluelinelabs:logansquare-compiler:1.0.6'
+    compile 'com.bluelinelabs:logansquare:1.0.6'
+
+    // Crashlytics.
+    compile 'com.crashlytics.android:crashlytics:1.+'
+
+    // KitKat time picker
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile project(':libs:datetimepicker')
+
+    // JVM tests
+    testCompile 'junit:junit:4.12'
+}
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "22.0.1"
+
+    def gitHash = "git rev-parse --short HEAD".execute().text.trim()
+    def hasModifiedDeletedOrOtherFiles = !"git ls-files -mdo --exclude-standard".execute().text.trim().isEmpty()
+    def hasStagedFiles = !"git diff-index --no-ext-diff --name-only --cached HEAD".execute().text.trim().isEmpty()
+    def dirtyWorkingCopy = hasModifiedDeletedOrOtherFiles || hasStagedFiles
+    def gitDescription = dirtyWorkingCopy ? "${gitHash}-dirty" : gitHash
+
+    defaultConfig {
+        minSdkVersion 7
+        targetSdkVersion 21
+
+        buildConfigField "String", "GIT_DESCRIPTION", "\"${gitDescription}\""
+    }
+
+    lintOptions {
+        // Downgrade missing translations to non-fatal severity.
+        warning 'MissingTranslation'
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            // You could use 'proguardFile "proguard.cfg"' here and get the
+            // same effect, but this ensures that any changes to
+            // proguard-android-optimize.txt are automatically included.
+            proguardFile getDefaultProguardFile('proguard-android-optimize.txt')
+            proguardFile "proguard-crashlytics.cfg"
+            proguardFile "proguard-eventbus.cfg"
+            proguardFile "proguard-guava.cfg"
+            proguardFile "proguard-squeezer.cfg"
+        }
+    }
+
+    signingConfigs {
+        if(project.hasProperty("Squeezer.properties")
+                && file(project.property("Squeezer.properties")).exists()) {
+            Properties props = new Properties()
+            props.load(new FileInputStream(file(project.property("Squeezer.properties"))))
+            release {
+                storeFile file("keystore")
+                storePassword props['key.store.password']
+                keyAlias "squeezer"
+                keyPassword props['key.alias.password']
+            }
+        } else {
+            release {
+                storeFile file("squeezer-local-release-key.keystore")
+                storePassword "squeezer"
+                keyAlias "squeezer"
+                keyPassword "squeezer"
+            }
+        }
+    }
+
+    productFlavors {
+        beta {
+            versionCode 53
+            versionName "1.4.0-beta-1"
+            signingConfig android.signingConfigs.release
+        }
+
+        live {
+            versionCode 54
+            versionName "1.4.0"
+            signingConfig android.signingConfigs.release
+        }
+    }
+}

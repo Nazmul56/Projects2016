@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/check.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/check.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/load.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/load.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/undo.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/undo.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/markers.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/markers.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/divider.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/divider.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/large_launcher_icon.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/large_launcher_icon.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/newpage.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/newpage.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/launcher_icon.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/scribble.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/scribble.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/share.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/share.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/gallery.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/gallery.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/overflow.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/overflow.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/doodlebug.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-xhdpi/doodlebug.png"
+    }
+]

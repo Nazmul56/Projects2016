@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WordPress Reader</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_comments">Comments</string>
+    <string name="title_activity_article">Article</string>
+    <string name="title_activity_comment">Comments</string>
+    <string name="action_share">Share</string>
+    <string name="tab_all">All</string>
+    <string name="loading_categories">Loading categories…</string>
+    <string name="loading_articles">Loading articles…</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_send_to_wear">Send to my watch</string>
+    <string name="error_load_categories">Network error. Failed to load categories.</string>
+    <string name="error_load_posts">Network error. Failed to load articles.</string>
+    <string name="action_retry">Retry</string>
+    <string name="search_hint">Enter search query here</string>
+    <string name="search_result">Search Result for</string>
+
+</resources>

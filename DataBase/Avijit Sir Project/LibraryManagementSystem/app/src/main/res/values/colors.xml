@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_Primary">#3F51B5</color>
+    <color name="color_PrimaryDark">#303F9F</color>
+    <color name="colorPrimary1">#F44336</color>
+    <color name="colorPrimaryDark1">#B71C1C</color>
+    <color name="color_Accent">#FF4081</color>
+    <color name="year">#999999</color>
+    <color name="title">#222222</color>
+
+
+    <color name="colorPrimary">#c13d49</color>
+    <color name="colorPrimaryDark">#c13d49</color>
+    <color name="colorAccent">#c13d49</color>
+    <color name="colorAccentd">#FF5722</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+</resources>

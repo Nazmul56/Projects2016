@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-a846202df845c4d7205666b29b317c14cc0f4b1b.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-66e4148fe77fdc3b9dded2f56cb48635c937ed24.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-4e1b3e7ac33ace7a5cd34b93ec92f9fd4d2aa2b9.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-446ae7fae6fdbe358d9ebe4ed2b961836664b820.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/glide-3.6.1-b48b0a891b99fab01ab67240a29df869ddf6b44c.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/design/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a5238e4bdcd6568b82db669d41817de670586b8">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-b423ab44dd8440d8720ac53c7be3a7c926e3cfe2.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-0a7743ae02658c58f94f8ad2fe7bfaf5d44ef4ab.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-4459a1aa04bfc414bea069328e4603cc94631ee1.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-2375d3e3efec308cbf6808a71ff1cd2c4749c4dc.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-a0930ce918b00f2c22dc981f0f58f49876ad9c3d.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-e09db54b9eb2481f8e87f05b399011c7fb304ec9.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-3be2d37b132d0050130faa4a7b282b2947e7d49b.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-fd2d8cd0aed6d9434bb76891db7a2d52fe5b38f2.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-68124adeca2690a0620c04faf3f1573997dc9e3a.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-8a6d4c0513ca16c15773b3a79ab4003428ff519c.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-eea76b4ce20c1478034d13564d7a6a3ae7a07945.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-79f5733e66130196c852510f494823e1d29f1c75.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-91eb8453739199ec13d33e7d6f60c76abc19f788.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.maps.android/android-maps-utils/0.3.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cf251baf39f5c5138224b67b4106eb6331abbd13">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-facc6ac259799daf699d43a1eda0a605630dd0ea.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-a2e328b86ff9738ae444813c39b38bc63e60eb7c.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-5d41e3423b7daca588dd76d2419970ba7a2d6c28.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/android-XYZTouristAttractions-master/Shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fe72280b2f7eae46aa686782c9e4e5704de22bf5">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-8c97b339aa9a10f212209657198538c0ec233d87.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-3676402b776b731d99ec1be508a18d6bdb919dce.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-5140e56e3eb4d3d36cfbd6e104e0a278f9c119ae.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-e7c8641b35c2dc488db96caeffc1c63b17be9784.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-57307471e5c9cdf13e373e6c5eda0c6bcf6c6acf.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-c2da77785e874817eab3dcb0bc359c314463cf43.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="/home/nazmul/Desktop/UnderDevelopment/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-267c4904162561786179cdd2273b1cd8276165a2.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/android-XYZTouristAttractions-master/Shared/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c271c0447b45c62368a33b1ffff6271e7de1e9a">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-0a583618b69a7ea7653221727b31a516241acf12.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6226784544a521018b23203d335f89f268314645">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-13b0ac0d79964906b733c3454e6387a725f33d9a.jar" />
+    </item>
+    <item
+        jar="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/nazmul/Desktop/Back UP Recent Project/android-XYZTouristAttractions-master/Application/build/intermediates/pre-dexed/debug/classes-02c58bb7840b013a96c14ce80099cf7c49b15f70.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,631 @@
+[
+    {
+        "outputFile": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 42,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 98,
+                    "endColumn": 42,
+                    "endOffset": 136
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 42,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 141,
+                    "endColumn": 50,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 708,
+                        "endColumn": 50,
+                        "endOffset": 754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 50,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 50,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 51,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 759,
+                        "endColumn": 51,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 51,
+                    "endOffset": 342
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 905,
+                        "endColumn": 51,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 882,
+                    "endColumn": 48,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 854,
+                        "endColumn": 48,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 53,
+                    "endOffset": 980
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 53,
+                        "endOffset": 952
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 985,
+                    "endColumn": 53,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 53,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endColumn": 50,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 50,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 51,
+                    "endOffset": 1137
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 51,
+                        "endOffset": 849
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1142,
+                    "endColumn": 50,
+                    "endOffset": 1188
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 50,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1193,
+                    "endColumn": 48,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 48,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 41,
+                    "endOffset": 1279
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endColumn": 41,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1284,
+                    "endColumn": 49,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 49,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endColumn": 67,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 67,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 43,
+                    "endOffset": 1441
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 43,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1446,
+                    "endColumn": 61,
+                    "endOffset": 1503
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 962,
+                        "endColumn": 61,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1508,
+                    "endColumn": 69,
+                    "endOffset": 1573
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 69,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1578,
+                    "endColumn": 70,
+                    "endOffset": 1644
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endColumn": 70,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1649,
+                    "endLine": 27,
+                    "endColumn": 13,
+                    "endOffset": 1695
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endLine": 22,
+                        "endColumn": 13,
+                        "endOffset": 867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1700,
+                    "endColumn": 53,
+                    "endOffset": 1749
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 710,
+                        "endColumn": 53,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1754,
+                    "endColumn": 44,
+                    "endOffset": 1794
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 44,
+                        "endOffset": 705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1799,
+                    "endColumn": 48,
+                    "endOffset": 1843
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/config.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 48,
+                        "endOffset": 709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1848,
+                    "endColumn": 56,
+                    "endOffset": 1900
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 56,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1905,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 2063
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2068,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2166
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 828,
+                        "endLine": 23,
+                        "endColumn": 12,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2171,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 2539
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1094,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2544,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 3017
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1467,
+                        "endLine": 42,
+                        "endColumn": 12,
+                        "endOffset": 1940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3022,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 3175
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2571,
+                        "endLine": 58,
+                        "endColumn": 12,
+                        "endOffset": 2724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3180,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 3801
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1945,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3806,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 3964
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1089
+                    }
+                }
+            }
+        ]
+    }
+]

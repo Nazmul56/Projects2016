@@ -1,0 +1,31 @@
+<resources>
+
+    <style name="AppTheme" parent="Base.AppTheme">
+
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="Base.AppTheme" parent="Theme.AppCompat.NoActionBar">
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+
+        <!-- Transparent Navigation Bar -->
+        <!--<item name="android:windowTranslucentNavigation" tools:targetApi="19">true</item>-->
+    </style>
+
+
+    <!-- Custom widget styles -->
+    <style name="CustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">?android:textColorPrimary</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabBackground">@color/colorPrimary</item>
+        <item name="tabTextAppearance">@style/CustomTabTextAppearance</item>
+    </style>
+
+    <style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFAB91</item>
+    </style>
+
+</resources>

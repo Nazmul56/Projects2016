@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/launcher_icon.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/qr.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-mdpi/qr.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/icon.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/markers.png",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/drawable-mdpi/markers.png"
+    }
+]

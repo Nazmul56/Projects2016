@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="notifysdk-release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nightVisionCamera/libs/notifysdk-release.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

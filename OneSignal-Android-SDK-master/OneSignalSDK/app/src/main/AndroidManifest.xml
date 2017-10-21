@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.onesignal.example" >
+
+    <uses-permission android:name="com.android.vending.BILLING" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <!--<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>-->
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme"
+        android:name=".OneSignalExampleApp">
+
+        <!--
+        <amazon:enable-feature android:name="com.amazon.device.messaging" android:required="false"/>
+        <service android:name="com.onesignal.ADMMessageHandler" android:exported="false" />
+        <receiver
+            android:name="com.onesignal.ADMMessageHandler$Receiver"
+            android:permission="com.amazon.device.messaging.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.amazon.device.messaging.intent.REGISTRATION" />
+                <action android:name="com.amazon.device.messaging.intent.RECEIVE" />
+                <category android:name="com.onesignal.example" />
+            </intent-filter>
+        </receiver>
+
+        -->
+
+
+
+
+
+
+<!--
+
+                <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:taskAffinity="">
+        </activity>
+
+        <activity
+            android:name=".BlankActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:taskAffinity=""
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+-->
+
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+        </activity>
+
+        <activity
+            android:name=".BlankActivity"
+            android:label="@string/app_name"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <!--
+        <receiver
+            android:name="com.onesignal.example.TestNotificationOpenedReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.onesignal.NotificationOpened.RECEIVE" />
+            </intent-filter>
+        </receiver>
+
+        <receiver
+            android:name="com.onesignal.example.OneSignalBackgroundDataReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.onesignal.BackgroundBroadcast.RECEIVE" />
+            </intent-filter>
+        </receiver>
+-->
+
+
+        <service
+            android:name=".NotificationExtenderServiceTest"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.onesignal.NotificationExtender" />
+            </intent-filter>
+        </service>
+
+    </application>
+
+</manifest>

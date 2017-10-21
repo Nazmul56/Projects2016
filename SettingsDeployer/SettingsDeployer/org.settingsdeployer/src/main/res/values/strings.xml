@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_text">Settings Deployment for Kodi</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">AbsoluteTV Updater</string>
+    <string name="the_wiz">AbsoluteTV Updater</string>
+    <string name="kodi_deploy">Loading Addons, May Take 15 Min+</string>
+    <string name="found_xbmc">Be Patient...</string>
+    <string name="found_kodi">Be Patient...</string>
+    <string name="found_nothing">Could not locate XBMC/Kodi</string>
+    <string name="deploy_success">Done, Hit Home Key + Start Kodi</string>
+    <string name="deploy_fail">Failed, Check WIFI Connection</string>
+    <string name="work_type_downloading">Downloading...</string>
+    <string name="work_type_extracting">Extracting...</string>
+    <string name="work_type_deleting">Deleting...</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="StartApp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nightVisionCamera/libs/StartApp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/home/nazmul/Desktop/UnderDevelopment/android-CardView-master/Application/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/android-CardView-master/Application/src/main/res/values-v11/template-styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 65,
+                        "endOffset": 711
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/nazmul/Desktop/UnderDevelopment/Card View/android-CardView-master/Application/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 64,
+                    "endOffset": 115
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/Card View/android-CardView-master/Application/src/main/res/values-v11/template-styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 65,
+                        "endOffset": 711
+                    }
+                }
+            }
+        ]
+    }
+]

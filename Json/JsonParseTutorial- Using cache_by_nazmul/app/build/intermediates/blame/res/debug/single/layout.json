@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/JsonParseTutorial- Using cache_by_nazmul/app/build/intermediates/res/merged/debug/layout/listview_main.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/JsonParseTutorial- Using cache_by_nazmul/app/src/main/res/layout/listview_main.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/JsonParseTutorial- Using cache_by_nazmul/app/build/intermediates/res/merged/debug/layout/singleitemview.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/JsonParseTutorial- Using cache_by_nazmul/app/src/main/res/layout/singleitemview.xml"
+    },
+    {
+        "merged": "/home/nazmul/Desktop/UnderDevelopment/JsonParseTutorial- Using cache_by_nazmul/app/build/intermediates/res/merged/debug/layout/listview_item.xml",
+        "source": "/home/nazmul/Desktop/UnderDevelopment/JsonParseTutorial- Using cache_by_nazmul/app/src/main/res/layout/listview_item.xml"
+    }
+]

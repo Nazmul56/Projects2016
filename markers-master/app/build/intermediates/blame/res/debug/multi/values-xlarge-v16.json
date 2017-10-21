@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/build/intermediates/res/merged/debug/values-xlarge-v16/values-xlarge-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values-xlarge-v16/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 741,
+                        "endColumn": 48,
+                        "endOffset": 785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 67,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "/home/nazmul/Desktop/UnderDevelopment/markers-master/app/src/main/res/values-xlarge-v16/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 790,
+                        "endColumn": 67,
+                        "endOffset": 853
+                    }
+                }
+            }
+        ]
+    }
+]
